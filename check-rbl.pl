@@ -75,7 +75,6 @@ my @rbl=(
 	'dnsbl-2.uceprotect.net',
 	'pbl.spamhaus.org',
 	'xbl.spamhaus.org',
-	'bl.spamcannibal.org',
 	'ubl.unsubscore.com',
 	'dyna.spamrats.com',
 	'spam.spamrats.com',
