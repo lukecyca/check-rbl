@@ -93,7 +93,6 @@ my @rbl=(
 	'dnsbl.dronebl.org',
 	'db.wpbl.info',
 	'query.senderbase.org',
-	'bl.emailbasura.org',
 	'combined.rbl.msrbl.net',
 	'cblless.anti-spam.org.cn',
 	'cblplus.anti-spam.org.cn',
