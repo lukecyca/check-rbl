@@ -130,7 +130,6 @@ my @rbl=(
 	'duinv.aupads.org',
 	'dynablock.sorbs.net',
 	'residential.block.transip.nl',
-	'dynip.rothen.com',
 	'dul.blackhole.cantv.net',
 	'mail.people.it',
 	'blacklist.sci.kun.nl',
